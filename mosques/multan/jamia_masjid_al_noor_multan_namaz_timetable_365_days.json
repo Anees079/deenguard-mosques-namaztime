@@ -1,0 +1,2519 @@
+{
+  "schemaVersion": 1,
+  "mosqueName": "Jamia Masjid Al-Noor",
+  "city": "Multan",
+  "fullAddress": "Block C, Gulgasht Colony, Bosan Road, Multan",
+  "updatedAt": "2026-11-20",
+  "ranges": [
+    {
+      "startMonthDay": "01-01",
+      "endMonthDay": "01-01",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:29",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "01-02",
+      "endMonthDay": "01-02",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:30",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "01-03",
+      "endMonthDay": "01-03",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:31",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "01-04",
+      "endMonthDay": "01-05",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:32",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "01-06",
+      "endMonthDay": "01-06",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:33",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "01-07",
+      "endMonthDay": "01-07",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:34",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "01-08",
+      "endMonthDay": "01-09",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:35",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "01-10",
+      "endMonthDay": "01-10",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:36",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "01-11",
+      "endMonthDay": "01-11",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:37",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "01-12",
+      "endMonthDay": "01-12",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:38",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-13",
+      "endMonthDay": "01-14",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:39",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-15",
+      "endMonthDay": "01-15",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:40",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-16",
+      "endMonthDay": "01-16",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:41",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-17",
+      "endMonthDay": "01-17",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:42",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-18",
+      "endMonthDay": "01-18",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:43",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-19",
+      "endMonthDay": "01-19",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:44",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-20",
+      "endMonthDay": "01-20",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:45",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-21",
+      "endMonthDay": "01-21",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:46",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-22",
+      "endMonthDay": "01-23",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:47",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-24",
+      "endMonthDay": "01-24",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:48",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-25",
+      "endMonthDay": "01-25",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:49",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-26",
+      "endMonthDay": "01-26",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:50",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-27",
+      "endMonthDay": "01-27",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:51",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-28",
+      "endMonthDay": "01-28",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:52",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-29",
+      "endMonthDay": "01-29",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:53",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "01-30",
+      "endMonthDay": "01-31",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:54",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "02-01",
+      "endMonthDay": "02-01",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:55",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "02-02",
+      "endMonthDay": "02-02",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "17:56",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-03",
+      "endMonthDay": "02-03",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "17:57",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-04",
+      "endMonthDay": "02-04",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "17:58",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-05",
+      "endMonthDay": "02-06",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "17:59",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-07",
+      "endMonthDay": "02-07",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:00",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-08",
+      "endMonthDay": "02-08",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:01",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-09",
+      "endMonthDay": "02-09",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:02",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-10",
+      "endMonthDay": "02-10",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:03",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-11",
+      "endMonthDay": "02-12",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:04",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-13",
+      "endMonthDay": "02-13",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:05",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-14",
+      "endMonthDay": "02-14",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:06",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-15",
+      "endMonthDay": "02-15",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:07",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-16",
+      "endMonthDay": "02-17",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:08",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-18",
+      "endMonthDay": "02-18",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:09",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-19",
+      "endMonthDay": "02-19",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:10",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-20",
+      "endMonthDay": "02-20",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:11",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-21",
+      "endMonthDay": "02-21",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:12",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-22",
+      "endMonthDay": "02-22",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:12",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "02-23",
+      "endMonthDay": "02-23",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:13",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "02-24",
+      "endMonthDay": "02-25",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:14",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "02-26",
+      "endMonthDay": "02-26",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:15",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "02-27",
+      "endMonthDay": "02-27",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:16",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "02-28",
+      "endMonthDay": "02-28",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:17",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-01",
+      "endMonthDay": "03-01",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:18",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-02",
+      "endMonthDay": "03-03",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:19",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-04",
+      "endMonthDay": "03-04",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:20",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-05",
+      "endMonthDay": "03-06",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:21",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-07",
+      "endMonthDay": "03-07",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:22",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-08",
+      "endMonthDay": "03-09",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:23",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-10",
+      "endMonthDay": "03-10",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:24",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-11",
+      "endMonthDay": "03-12",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:25",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-13",
+      "endMonthDay": "03-13",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:26",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-14",
+      "endMonthDay": "03-15",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:27",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "03-16",
+      "endMonthDay": "03-16",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:28",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "03-17",
+      "endMonthDay": "03-18",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:29",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "03-19",
+      "endMonthDay": "03-20",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:00",
+      "maghrib": "18:30",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "03-21",
+      "endMonthDay": "03-21",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:15",
+      "maghrib": "18:31",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "03-22",
+      "endMonthDay": "03-23",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:15",
+      "maghrib": "18:32",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "03-24",
+      "endMonthDay": "03-24",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:15",
+      "maghrib": "18:33",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "03-25",
+      "endMonthDay": "03-26",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:15",
+      "maghrib": "18:34",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "03-27",
+      "endMonthDay": "03-27",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:15",
+      "maghrib": "18:35",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "03-28",
+      "endMonthDay": "03-28",
+      "fajr": "05:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:15",
+      "maghrib": "18:35",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "03-29",
+      "endMonthDay": "03-29",
+      "fajr": "05:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:15",
+      "maghrib": "18:36",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "03-30",
+      "endMonthDay": "03-31",
+      "fajr": "05:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "17:15",
+      "maghrib": "18:37",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "04-01",
+      "endMonthDay": "04-02",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:38",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "04-03",
+      "endMonthDay": "04-03",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:39",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "04-04",
+      "endMonthDay": "04-05",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:40",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "04-06",
+      "endMonthDay": "04-07",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:41",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-08",
+      "endMonthDay": "04-08",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:42",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-09",
+      "endMonthDay": "04-10",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:43",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-11",
+      "endMonthDay": "04-11",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:44",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-12",
+      "endMonthDay": "04-13",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:45",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-14",
+      "endMonthDay": "04-15",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:46",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-16",
+      "endMonthDay": "04-16",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:47",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-17",
+      "endMonthDay": "04-18",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:48",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-19",
+      "endMonthDay": "04-19",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:49",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-20",
+      "endMonthDay": "04-20",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:50",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-21",
+      "endMonthDay": "04-21",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:50",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-22",
+      "endMonthDay": "04-23",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:51",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-24",
+      "endMonthDay": "04-24",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:52",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "04-25",
+      "endMonthDay": "04-26",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:53",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "04-27",
+      "endMonthDay": "04-27",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:54",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "04-28",
+      "endMonthDay": "04-29",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:55",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "04-30",
+      "endMonthDay": "04-30",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:56",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "05-01",
+      "endMonthDay": "05-02",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:57",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "05-03",
+      "endMonthDay": "05-03",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:58",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "05-04",
+      "endMonthDay": "05-05",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:59",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "05-06",
+      "endMonthDay": "05-06",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "19:00",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "05-07",
+      "endMonthDay": "05-08",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "19:01",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "05-09",
+      "endMonthDay": "05-09",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "19:02",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "05-10",
+      "endMonthDay": "05-11",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "19:03",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "05-12",
+      "endMonthDay": "05-13",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "19:04",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-14",
+      "endMonthDay": "05-14",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "19:05",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-15",
+      "endMonthDay": "05-15",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "19:06",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-16",
+      "endMonthDay": "05-16",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:06",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-17",
+      "endMonthDay": "05-17",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:07",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-18",
+      "endMonthDay": "05-19",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:08",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-20",
+      "endMonthDay": "05-21",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:09",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-22",
+      "endMonthDay": "05-22",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:10",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-23",
+      "endMonthDay": "05-24",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:11",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-25",
+      "endMonthDay": "05-25",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:12",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-26",
+      "endMonthDay": "05-27",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:13",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "05-28",
+      "endMonthDay": "05-29",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:14",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "05-30",
+      "endMonthDay": "05-31",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:15",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "06-01",
+      "endMonthDay": "06-02",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:16",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "06-03",
+      "endMonthDay": "06-04",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:17",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "06-05",
+      "endMonthDay": "06-06",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:18",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "06-07",
+      "endMonthDay": "06-08",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:19",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "06-09",
+      "endMonthDay": "06-11",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:20",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "06-12",
+      "endMonthDay": "06-14",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:21",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "06-15",
+      "endMonthDay": "06-17",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:22",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "06-18",
+      "endMonthDay": "06-21",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:23",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "06-22",
+      "endMonthDay": "06-30",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:24",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "07-01",
+      "endMonthDay": "07-08",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:24",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "07-09",
+      "endMonthDay": "07-12",
+      "fajr": "04:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:23",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "07-13",
+      "endMonthDay": "07-15",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:22",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "07-16",
+      "endMonthDay": "07-17",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:21",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "07-18",
+      "endMonthDay": "07-20",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:20",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "07-21",
+      "endMonthDay": "07-22",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:19",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "07-23",
+      "endMonthDay": "07-23",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:18",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "07-24",
+      "endMonthDay": "07-25",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:17",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "07-26",
+      "endMonthDay": "07-26",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:16",
+      "isha": "21:15"
+    },
+    {
+      "startMonthDay": "07-27",
+      "endMonthDay": "07-27",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:16",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "07-28",
+      "endMonthDay": "07-28",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:15",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "07-29",
+      "endMonthDay": "07-29",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:14",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "07-30",
+      "endMonthDay": "07-31",
+      "fajr": "04:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:13",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "08-01",
+      "endMonthDay": "08-01",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:12",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "08-02",
+      "endMonthDay": "08-03",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:11",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "08-04",
+      "endMonthDay": "08-04",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:10",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "08-05",
+      "endMonthDay": "08-05",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:09",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "08-06",
+      "endMonthDay": "08-06",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:08",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "08-07",
+      "endMonthDay": "08-07",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:07",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "08-08",
+      "endMonthDay": "08-08",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:06",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "08-09",
+      "endMonthDay": "08-09",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:05",
+      "isha": "21:00"
+    },
+    {
+      "startMonthDay": "08-10",
+      "endMonthDay": "08-10",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:05",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-11",
+      "endMonthDay": "08-11",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:04",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-12",
+      "endMonthDay": "08-12",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:03",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-13",
+      "endMonthDay": "08-13",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:02",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-14",
+      "endMonthDay": "08-14",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:01",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-15",
+      "endMonthDay": "08-15",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "19:00",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-16",
+      "endMonthDay": "08-16",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "18:59",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-17",
+      "endMonthDay": "08-17",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "18:58",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-18",
+      "endMonthDay": "08-18",
+      "fajr": "04:45",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:30",
+      "maghrib": "18:57",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-19",
+      "endMonthDay": "08-19",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:56",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-20",
+      "endMonthDay": "08-20",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:55",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-21",
+      "endMonthDay": "08-21",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:54",
+      "isha": "20:45"
+    },
+    {
+      "startMonthDay": "08-22",
+      "endMonthDay": "08-22",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:52",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "08-23",
+      "endMonthDay": "08-23",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:51",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "08-24",
+      "endMonthDay": "08-24",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:50",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "08-25",
+      "endMonthDay": "08-25",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:49",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "08-26",
+      "endMonthDay": "08-26",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:48",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "08-27",
+      "endMonthDay": "08-27",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:47",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "08-28",
+      "endMonthDay": "08-28",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:46",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "08-29",
+      "endMonthDay": "08-29",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:44",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "08-30",
+      "endMonthDay": "08-30",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:43",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "08-31",
+      "endMonthDay": "08-31",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:42",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "09-01",
+      "endMonthDay": "09-01",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:41",
+      "isha": "20:30"
+    },
+    {
+      "startMonthDay": "09-02",
+      "endMonthDay": "09-02",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:40",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-03",
+      "endMonthDay": "09-03",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:39",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-04",
+      "endMonthDay": "09-04",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:37",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-05",
+      "endMonthDay": "09-05",
+      "fajr": "05:00",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:36",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-06",
+      "endMonthDay": "09-06",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:35",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-07",
+      "endMonthDay": "09-07",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:15",
+      "maghrib": "18:34",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-08",
+      "endMonthDay": "09-08",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:32",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-09",
+      "endMonthDay": "09-09",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:31",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-10",
+      "endMonthDay": "09-10",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:30",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-11",
+      "endMonthDay": "09-11",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:29",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-12",
+      "endMonthDay": "09-12",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:27",
+      "isha": "20:15"
+    },
+    {
+      "startMonthDay": "09-13",
+      "endMonthDay": "09-13",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:26",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-14",
+      "endMonthDay": "09-14",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:25",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-15",
+      "endMonthDay": "09-15",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:24",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-16",
+      "endMonthDay": "09-16",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:22",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-17",
+      "endMonthDay": "09-17",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:21",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-18",
+      "endMonthDay": "09-18",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:20",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-19",
+      "endMonthDay": "09-19",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:19",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-20",
+      "endMonthDay": "09-20",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "17:00",
+      "maghrib": "18:17",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-21",
+      "endMonthDay": "09-21",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "16:45",
+      "maghrib": "18:16",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-22",
+      "endMonthDay": "09-22",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "16:45",
+      "maghrib": "18:15",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-23",
+      "endMonthDay": "09-23",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "16:45",
+      "maghrib": "18:14",
+      "isha": "20:00"
+    },
+    {
+      "startMonthDay": "09-24",
+      "endMonthDay": "09-24",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "16:45",
+      "maghrib": "18:12",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "09-25",
+      "endMonthDay": "09-25",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "16:45",
+      "maghrib": "18:11",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "09-26",
+      "endMonthDay": "09-26",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "16:45",
+      "maghrib": "18:10",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "09-27",
+      "endMonthDay": "09-27",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "16:45",
+      "maghrib": "18:09",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "09-28",
+      "endMonthDay": "09-28",
+      "fajr": "05:15",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "16:45",
+      "maghrib": "18:07",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "09-29",
+      "endMonthDay": "09-29",
+      "fajr": "05:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "16:45",
+      "maghrib": "18:06",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "09-30",
+      "endMonthDay": "09-30",
+      "fajr": "05:30",
+      "dhuhr": "13:45",
+      "jummah": "14:00",
+      "asr": "16:45",
+      "maghrib": "18:05",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "10-01",
+      "endMonthDay": "10-01",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:04",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "10-02",
+      "endMonthDay": "10-02",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:02",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "10-03",
+      "endMonthDay": "10-03",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:01",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "10-04",
+      "endMonthDay": "10-04",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "18:00",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "10-05",
+      "endMonthDay": "10-05",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:45",
+      "maghrib": "17:59",
+      "isha": "19:45"
+    },
+    {
+      "startMonthDay": "10-06",
+      "endMonthDay": "10-06",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:58",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-07",
+      "endMonthDay": "10-07",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:56",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-08",
+      "endMonthDay": "10-08",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:55",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-09",
+      "endMonthDay": "10-09",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:54",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-10",
+      "endMonthDay": "10-10",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:53",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-11",
+      "endMonthDay": "10-11",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:52",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-12",
+      "endMonthDay": "10-12",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:51",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-13",
+      "endMonthDay": "10-13",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:50",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-14",
+      "endMonthDay": "10-14",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:48",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-15",
+      "endMonthDay": "10-15",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:47",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-16",
+      "endMonthDay": "10-16",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:46",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-17",
+      "endMonthDay": "10-17",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:45",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-18",
+      "endMonthDay": "10-18",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:44",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-19",
+      "endMonthDay": "10-19",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:43",
+      "isha": "19:30"
+    },
+    {
+      "startMonthDay": "10-20",
+      "endMonthDay": "10-20",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:30",
+      "maghrib": "17:42",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "10-21",
+      "endMonthDay": "10-21",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:41",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "10-22",
+      "endMonthDay": "10-22",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:40",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "10-23",
+      "endMonthDay": "10-23",
+      "fajr": "05:30",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:39",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "10-24",
+      "endMonthDay": "10-24",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:38",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "10-25",
+      "endMonthDay": "10-25",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:37",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "10-26",
+      "endMonthDay": "10-26",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:36",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "10-27",
+      "endMonthDay": "10-27",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:35",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "10-28",
+      "endMonthDay": "10-29",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:34",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "10-30",
+      "endMonthDay": "10-30",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:33",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "10-31",
+      "endMonthDay": "10-31",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:32",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "11-01",
+      "endMonthDay": "11-01",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:31",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "11-02",
+      "endMonthDay": "11-03",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:30",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "11-04",
+      "endMonthDay": "11-04",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:29",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "11-05",
+      "endMonthDay": "11-05",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:28",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "11-06",
+      "endMonthDay": "11-06",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:27",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "11-07",
+      "endMonthDay": "11-07",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:27",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "11-08",
+      "endMonthDay": "11-08",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:26",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "11-09",
+      "endMonthDay": "11-10",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:25",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "11-11",
+      "endMonthDay": "11-12",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:24",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "11-13",
+      "endMonthDay": "11-14",
+      "fajr": "05:45",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:23",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "11-15",
+      "endMonthDay": "11-16",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:22",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "11-17",
+      "endMonthDay": "11-18",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:21",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "11-19",
+      "endMonthDay": "11-21",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:20",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "11-22",
+      "endMonthDay": "11-26",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:19",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "11-27",
+      "endMonthDay": "11-30",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:18",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "12-01",
+      "endMonthDay": "12-06",
+      "fajr": "06:00",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:18",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "12-07",
+      "endMonthDay": "12-07",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:18",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "12-08",
+      "endMonthDay": "12-11",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:19",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "12-12",
+      "endMonthDay": "12-15",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:20",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "12-16",
+      "endMonthDay": "12-17",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:21",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "12-18",
+      "endMonthDay": "12-19",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:22",
+      "isha": "19:00"
+    },
+    {
+      "startMonthDay": "12-20",
+      "endMonthDay": "12-21",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:23",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "12-22",
+      "endMonthDay": "12-23",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:24",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "12-24",
+      "endMonthDay": "12-25",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:25",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "12-26",
+      "endMonthDay": "12-26",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:00",
+      "maghrib": "17:26",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "12-27",
+      "endMonthDay": "12-28",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:27",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "12-29",
+      "endMonthDay": "12-30",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:28",
+      "isha": "19:15"
+    },
+    {
+      "startMonthDay": "12-31",
+      "endMonthDay": "12-31",
+      "fajr": "06:15",
+      "dhuhr": "13:30",
+      "jummah": "13:45",
+      "asr": "16:15",
+      "maghrib": "17:29",
+      "isha": "19:15"
+    }
+  ]
+}
