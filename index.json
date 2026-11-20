@@ -11,5 +11,14 @@
       "filePath": "mosques/multan/jamia-masjid-abu-khalid-sher-shah-road.json",
       "updatedAt": "2026-11-20"
     }
+    {
+      "id": "jamia_masjid_al_noor_multan",
+      "mosqueName": "Jamia Masjid Al Noor Multan",
+      "city": "Multan",
+      "fullAddress": "Sher shah road | satwa mil near ctm mile",
+      "normalizedKey": "jamia masjid Al noor |multan|sher shah road multan road multan",
+      "filePath": "mosques/multan/jamia_masjid_al_noor_multan_namaz_timetable_365_days.json",
+      "updatedAt": "2026-11-20"
+    }
   ]
 }
