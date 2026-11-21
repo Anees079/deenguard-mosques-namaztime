@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "mosques": [
     {
       "id": "multan-jamiyah-masjid-abu-khalid-ahle-hadees",
-      "mosqueName": "Jamia Masjid Abu Khalid Sher Shah road",
+      "mosqueName": "Jamia Masjid Abu-Khalid",
       "city": "Multan",
-      "fullAddress": "Sher shah road | satwa mil near ctm mile",
-      "normalizedKey": "jamia masjid abu khalid sher shah road|multan|sher shah road satwa mil near ctm mile",
+      "fullAddress": "Jamia Majid abu khalid sher shah road multan",
+      "normalizedKey": "jamia masjid abu khalid|multan|jamia majid abu khalid sher shah road multan",
       "filePath": "mosques/multan/jamia-masjid-abu-khalid-sher-shah-road.json",
-      "updatedAt": "2026-11-20"
+      "updatedAt": "2026-11-21"
     },
     {
       "id": "jamia_masjid_al_noor_multan",
