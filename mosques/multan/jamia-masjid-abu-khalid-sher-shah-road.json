@@ -3,12 +3,12 @@
   "mosqueName": "Jamia Masjid Abu-Khalid",
   "city": "Multan",
   "fullAddress": "Jamia Majid abu khalid sher shah road multan",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "ranges": [
     {
       "startMonthDay": "01-01",
       "endMonthDay": "01-01",
-      "fajr": "06:15",
+      "fajr": "06:00",
       "dhuhr": "13:30",
       "jummah": "12:00",
       "asr": "16:15",
@@ -18,7 +18,7 @@
     {
       "startMonthDay": "01-02",
       "endMonthDay": "01-02",
-      "fajr": "06:15",
+      "fajr": "06:00",
       "dhuhr": "13:30",
       "jummah": "13:45",
       "asr": "16:15",
@@ -28,7 +28,7 @@
     {
       "startMonthDay": "01-03",
       "endMonthDay": "01-03",
-      "fajr": "06:15",
+      "fajr": "06:00",
       "dhuhr": "13:30",
       "jummah": "13:45",
       "asr": "16:15",
@@ -38,7 +38,7 @@
     {
       "startMonthDay": "01-04",
       "endMonthDay": "01-05",
-      "fajr": "06:15",
+      "fajr": "06:00",
       "dhuhr": "13:30",
       "jummah": "13:45",
       "asr": "16:15",
@@ -48,7 +48,7 @@
     {
       "startMonthDay": "01-06",
       "endMonthDay": "01-06",
-      "fajr": "06:15",
+      "fajr": "06:00",
       "dhuhr": "13:30",
       "jummah": "13:45",
       "asr": "16:15",
@@ -58,7 +58,7 @@
     {
       "startMonthDay": "01-07",
       "endMonthDay": "01-07",
-      "fajr": "06:15",
+      "fajr": "06:00",
       "dhuhr": "13:30",
       "jummah": "13:45",
       "asr": "16:15",
@@ -68,7 +68,7 @@
     {
       "startMonthDay": "01-08",
       "endMonthDay": "01-09",
-      "fajr": "06:15",
+      "fajr": "06:00",
       "dhuhr": "13:30",
       "jummah": "13:45",
       "asr": "16:15",
@@ -78,7 +78,7 @@
     {
       "startMonthDay": "01-10",
       "endMonthDay": "01-10",
-      "fajr": "06:15",
+      "fajr": "06:00",
       "dhuhr": "13:30",
       "jummah": "13:45",
       "asr": "16:15",

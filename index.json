@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "mosques": [
     {
       "id": "multan-jamiyah-masjid-abu-khalid-ahle-hadees",
@@ -9,7 +9,7 @@
       "fullAddress": "Jamia Majid abu khalid sher shah road multan",
       "normalizedKey": "jamia masjid abu khalid|multan|jamia majid abu khalid sher shah road multan",
       "filePath": "mosques/multan/jamia-masjid-abu-khalid-sher-shah-road.json",
-      "updatedAt": "2026-11-21"
+      "updatedAt": "2026-11-22"
     },
     {
       "id": "jamia_masjid_al_noor_multan",
